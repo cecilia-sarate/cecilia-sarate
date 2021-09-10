@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cecilia
 - 👀 I’m interested in all things product design
 - 🌱 I’m currently learning python and front-end web development
-- 💞️ I’m looking to collaborate on B2B and B2C SaaS products
+- 👩🏻‍💻 Designer at Pendo
 - 📫 How to reach me cecilia@ceciliasarate.design
 
 <!---
