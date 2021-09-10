@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things product design
 - 🌱 I’m currently learning python and front-end web development
 - 💞️ I’m looking to collaborate on B2B and B2C SaaS products
-- 📫 How to reach me cecilia.sarate@outlook.com
+- 📫 How to reach me cecilia@ceciliasarate.design
 
 <!---
 cecilia-sarate/cecilia-sarate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
